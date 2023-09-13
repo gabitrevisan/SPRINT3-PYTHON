@@ -32,3 +32,6 @@ more longe do seu local de trabalho, mas que possua um espaço  de coworking por
 assim  comprovar que foi trabalhar no dia (check do cartão de identificação na entrada), apenas não no prédio da empresa. Nesta lógica, também seria possível desenvolver um
 aplicativo de carona: a própria empresa cria uma conta para os seus  funcionários e, desta forma, podem ver quem mora próximo de quem para que possam utilizar carona e economizar
 tanto  combustível quanto a evitar a produção de carbono.
+
+C. LINK DO PROJETO NO GITHUB:
+https://github.com/gabitrevisan/SPRINT3-PYTHON
